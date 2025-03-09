@@ -40,7 +40,7 @@ cd MonkeyType-BOT
 Run the bot using:  
 
 ```bash
-python bot.py
+python script.py
 ```
 
 ### **🛠️ Configuration**
