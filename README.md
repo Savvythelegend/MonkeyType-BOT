@@ -1,7 +1,3 @@
-Here’s a well-structured **README** for your MonkeyType bot, ensuring clarity and easy setup.  
-
----
-
 # **MonkeyType Bot 🚀**
 A **Selenium-based bot** that automates typing on [MonkeyType](https://monkeytype.com/), an online typing speed test platform.  
 
@@ -99,7 +95,3 @@ This project is **open-source** under the MIT License.
 ## **🔗 Author**
 👤 **Savvythelegend**  
 🔗 [GitHub Profile](https://github.com/Savvythelegend)  
-
----
-
-This README ensures clear instructions and professional documentation. Let me know if you need modifications! 🚀
