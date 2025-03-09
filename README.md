@@ -17,10 +17,9 @@ Ensure you have the following installed:
 3. **Chrome WebDriver** ([Download](https://sites.google.com/chromium.org/driver/))  
 4. Required Python packages:  
 
-   ```bash
+```bash
    pip install selenium keyboard
    ```
-
 ---
 
 ## **🚀 Installation & Setup**
